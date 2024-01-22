@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: bookstore-config
+data:
+  MONGO_URI: "vH8l1cjIoOH2CM6w80qXJVj9z6qrFFC2pgAxjXSDGmIKlq1gdjLCjNOdTIW6NMM7wP7Maqh2bZHGACDb8zDLww"
+  APP_ENV: "python"        
