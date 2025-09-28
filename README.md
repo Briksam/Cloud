@@ -67,8 +67,7 @@ A **cloud-native Bookstore application** that demonstrates how to integrate:
 ---
 
 ## 🏗️ Architecture  
-
-
+![Architecture Diagram](architecture.png)
 ---
 
 ## 📂 Project Structure
